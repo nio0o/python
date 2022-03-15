@@ -14,7 +14,7 @@
 #else:
 #    print("REPROVADO")
 #
-"""
+
 
 valor = 1000
  
@@ -30,11 +30,10 @@ elif valor <= 3050.52:
 elif valor <= 6101.06:
     print("desconto aplicado de 0.11")
     valor -= valor * 0.11
-"""
 
 
 
-"""
+
 def calcular_desconto(valor):
  if valor <= 100:
     valor -= valor * 0.03
@@ -46,12 +45,7 @@ def calcular_desconto(valor):
     valor -= valor * 0.20
 
     return valor   
-"""
 
-
-
-
-"""
 tipo_funcionario = 'Comum';
 acessos_liberados = 0;
 
@@ -59,23 +53,18 @@ if tipo_funcionario == 'ADM':
         acessos_liberados = acessos_liberados + 1
 print("Acesso liberado");
 
-"""
-"""
+
 if x > 8:
    print("x é maior que 8")
    print("Verificando valor")
 print("Valor verificado")
 
-"""
 
-
-'''
 b = 2
 c = 3
 
 print("o valor de b é ", b) ;print("o valor de c é ", c)
-'''
-"""
+
 nome = "Ana Maia";
 
 if nome == "Ana Maia":
@@ -86,9 +75,9 @@ else:
     
     print("Usuário não autorizado");
 
-"""
 
-"""
+
+
 preco_produto = 34.9
 desconto = 0.5
 total = preco_produto - (preco_produto * desconto)
@@ -124,13 +113,13 @@ total = preco_produto - (preco_produto * desconto)
 
 print("O preço é ", preco_produto) print("O desconto é ", desconto)
 print hello_world
-"""
+
 
 
 idade = 10
 
 if idade >= 18:
     print ("É maior de idade");
-    
+
 
 
